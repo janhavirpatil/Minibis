@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150223501719",
+    "project_id": "minibis-e0e3e",
+    "storage_bucket": "minibis-e0e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150223501719:android:989a485d95be7e44786cd2",
+        "android_client_info": {
+          "package_name": "com.example.minibis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMF2WX9K86lv8Xo2zEZ5B5p-nvZdwptvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
